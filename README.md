@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Zett!
+My real name is Zett!
 
 I'm currently learning Python for AI and Machine Learning,
 and C++ for low level programming.
