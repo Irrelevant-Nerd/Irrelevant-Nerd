@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF7F&height=180&section=header&text=Hi%20There,%20I'm%20Zenji&fontSize=40&fontColor=00FF7F&fontAlign=50&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" />
-</p>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&height=40&repeat=false&lines=A+low-level+and+AI+developer" /> </p>
 
@@ -33,6 +30,3 @@
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF7F&height=100&section=footer" />
-</p>
