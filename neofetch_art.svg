@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="776" height="391" viewBox="0 0 776 391">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<style>.art{font-family: "Courier New", monospace; font-size: 10px; fill: #00FF7F;} .info{font-family: "Courier New", monospace; font-size: 15px; fill: #00FF7F;} .dim{fill:#5fdca0;}</style>
+<text class="art" x="20" y="30" xml:space="preserve">              .*                           ...</text>
+<text class="art" x="20" y="41" xml:space="preserve">              :.                              </text>
+<text class="art" x="20" y="52" xml:space="preserve">             .:                               </text>
+<text class="art" x="20" y="63" xml:space="preserve">             ...:.                  :*.       </text>
+<text class="art" x="20" y="74" xml:space="preserve">            .:*#:....     .:... .:.. .#*      </text>
+<text class="art" x="20" y="85" xml:space="preserve">          .**##*::::..:..:****: .***. :@*     </text>
+<text class="art" x="20" y="96" xml:space="preserve">        .*####**###*:**:*###@@#:*#**:..@@*    </text>
+<text class="art" x="20" y="107" xml:space="preserve">      .*##*####@@@###@#*######**####*:.#@#    </text>
+<text class="art" x="20" y="118" xml:space="preserve">    .:#@#*###@@@@@@@@@@#@@@@##**#####: #@@:   </text>
+<text class="art" x="20" y="129" xml:space="preserve">    :#@@####@@@@@@@@@@@@@@##::*#@@@*:..*@@#   </text>
+<text class="art" x="20" y="140" xml:space="preserve">   .#@@####@@@@@@@@@@@@@@*:..:.#@@@: :.:@#*.  </text>
+<text class="art" x="20" y="151" xml:space="preserve">   .*@@@@@@@@@@@@@@@@@@@@@##***##@@#.  .*..   </text>
+<text class="art" x="20" y="162" xml:space="preserve">. ..:#@@@@@@@@@@@@@@@@@@@@@@####@@@@@:        </text>
+<text class="art" x="20" y="173" xml:space="preserve">   .:#@@@@@@@@@@@@@@@@@@@@@@@@##@@#@#.        </text>
+<text class="art" x="20" y="184" xml:space="preserve">  .:*#@@@@@@@@@@@@@@@@@@@@@@@@@#####:         </text>
+<text class="art" x="20" y="195" xml:space="preserve">:*#@@#@@@#@@@@@@@@@@@@@@@@@@@@@@##*:.         </text>
+<text class="art" x="20" y="206" xml:space="preserve">*##@@@@@@#@@@@@@@@@@@@@@@@@@@@@*::*:.         </text>
+<text class="art" x="20" y="217" xml:space="preserve"> .:#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*::          </text>
+<text class="art" x="20" y="228" xml:space="preserve"> .:##@@@@@@#@@@@@@@@@@@@@@@@@@@@@##:          </text>
+<text class="art" x="20" y="239" xml:space="preserve">   .*#@@@@####@@@@@@@@@@@@@@@@@@@@#.          </text>
+<text class="art" x="20" y="250" xml:space="preserve">     .:*######@@@@@@@@@@@@@@#*####*           </text>
+<text class="art" x="20" y="261" xml:space="preserve">    ....:####@@@@@@@@@@@@@@@:                 </text>
+<text class="art" x="20" y="272" xml:space="preserve">   .... .:**#@@@@@@@@@@@@@@*                  </text>
+<text class="art" x="20" y="283" xml:space="preserve">   ... ...:#@@@@@@@@@@@@@@*                   </text>
+<text class="art" x="20" y="294" xml:space="preserve">  .::::*###@@@@@@@@@@@@@@#.                   </text>
+<text class="art" x="20" y="305" xml:space="preserve">**######@@@@@@@@@@@@@@@@@*  ..::*****:     .  </text>
+<text class="art" x="20" y="316" xml:space="preserve">##@@@@#@@@@@@@@@@@@@@@@@#:.*#@@@@@@@@#:    .  </text>
+<text class="art" x="20" y="327" xml:space="preserve">@###@@#@@@@@@@@@@@@@@@@@#*#@@@@@@@@@@#:    .  </text>
+<text class="art" x="20" y="338" xml:space="preserve">@@@@@@#@@@@@@@@@@@@@@@@@##@@@@@@@@@@@*.       </text>
+<text class="info" x="324" y="65" xml:space="preserve" font-weight="bold">Irrelevant-Nerd@github</text>
+<text class="info dim" x="324" y="85" xml:space="preserve">----------------------</text>
+<text class="info" x="324" y="105" xml:space="preserve"><tspan font-weight="bold">OS:</tspan> Windows 10</text>
+<text class="info" x="324" y="125" xml:space="preserve"><tspan font-weight="bold">Shells:</tspan> Bash, PowerShell</text>
+<text class="info" x="324" y="145" xml:space="preserve"><tspan font-weight="bold">Pronouns:</tspan> He/Him</text>
+<text class="info" x="324" y="165" xml:space="preserve"><tspan font-weight="bold">Location:</tspan> Unknown</text>
+<text class="info" x="324" y="185" xml:space="preserve"><tspan font-weight="bold">Languages:</tspan> C++, C, Python, Java</text>
+<text class="info" x="324" y="205" xml:space="preserve"><tspan font-weight="bold">Tools:</tspan> CMake, Git</text>
+<text class="info" x="324" y="225" xml:space="preserve"><tspan font-weight="bold">Code Editors:</tspan> VS Code, IntelliJ IDEA</text>
+<text class="info" x="324" y="245" xml:space="preserve"><tspan font-weight="bold">Learning:</tspan> Memory Management, Microprocessors, AI</text>
+<text class="info" x="324" y="265" xml:space="preserve"><tspan font-weight="bold">Hobbies:</tspan> Reading Manga, Valorant, Basketball</text>
+<text class="info" x="324" y="285" xml:space="preserve"><tspan font-weight="bold">Commits:</tspan> 15</text>
+<text class="info" x="324" y="305" xml:space="preserve"><tspan font-weight="bold">Stars:</tspan> 0</text>
+<rect x="20" y="357" width="26" height="16" fill="#3a3a3a"/>
+<rect x="51" y="357" width="26" height="16" fill="#ff5f5f"/>
+<rect x="82" y="357" width="26" height="16" fill="#00FF7F"/>
+<rect x="113" y="357" width="26" height="16" fill="#e0af68"/>
+<rect x="144" y="357" width="26" height="16" fill="#61afef"/>
+<rect x="175" y="357" width="26" height="16" fill="#c678dd"/>
+<rect x="206" y="357" width="26" height="16" fill="#56b6c2"/>
+<rect x="237" y="357" width="26" height="16" fill="#dcdcdc"/>
+</svg>
