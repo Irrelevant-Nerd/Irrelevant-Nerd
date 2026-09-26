@@ -39,8 +39,6 @@
 <text class="info" x="324" y="185" xml:space="preserve"><tspan font-weight="bold">Tools:</tspan> CMake, Git</text>
 <text class="info" x="324" y="205" xml:space="preserve"><tspan font-weight="bold">Code Editors:</tspan> VS Code, IntelliJ IDEA</text>
 <text class="info" x="324" y="225" xml:space="preserve"><tspan font-weight="bold">Learning:</tspan> Memory Management, Microprocessors, AI</text>
-<text class="info" x="324" y="245" xml:space="preserve"><tspan font-weight="bold">Commits:</tspan> 15</text>
-<text class="info" x="324" y="265" xml:space="preserve"><tspan font-weight="bold">Stars:</tspan> 0</text>
 <rect x="20" y="357" width="26" height="16" fill="#3a3a3a"/>
 <rect x="51" y="357" width="26" height="16" fill="#ff5f5f"/>
 <rect x="82" y="357" width="26" height="16" fill="#00FF7F"/>
