@@ -34,13 +34,13 @@
 <text class="info dim" x="324" y="85" xml:space="preserve">----------------------</text>
 <text class="info" x="324" y="105" xml:space="preserve"><tspan font-weight="bold">OS:</tspan> Windows 10</text>
 <text class="info" x="324" y="125" xml:space="preserve"><tspan font-weight="bold">Shells:</tspan> Bash, PowerShell</text>
-<text class="info" x="324" y="165" xml:space="preserve"><tspan font-weight="bold">Location:</tspan> Unknown</text>
-<text class="info" x="324" y="185" xml:space="preserve"><tspan font-weight="bold">Languages:</tspan> C++, C, Python, Java</text>
-<text class="info" x="324" y="205" xml:space="preserve"><tspan font-weight="bold">Tools:</tspan> CMake, Git</text>
-<text class="info" x="324" y="225" xml:space="preserve"><tspan font-weight="bold">Code Editors:</tspan> VS Code, IntelliJ IDEA</text>
-<text class="info" x="324" y="245" xml:space="preserve"><tspan font-weight="bold">Learning:</tspan> Memory Management, Microprocessors, AI</text>
-<text class="info" x="324" y="285" xml:space="preserve"><tspan font-weight="bold">Commits:</tspan> 15</text>
-<text class="info" x="324" y="305" xml:space="preserve"><tspan font-weight="bold">Stars:</tspan> 0</text>
+<text class="info" x="324" y="145" xml:space="preserve"><tspan font-weight="bold">Location:</tspan> Unknown</text>
+<text class="info" x="324" y="165" xml:space="preserve"><tspan font-weight="bold">Languages:</tspan> C++, C, Python, Java</text>
+<text class="info" x="324" y="185" xml:space="preserve"><tspan font-weight="bold">Tools:</tspan> CMake, Git</text>
+<text class="info" x="324" y="205" xml:space="preserve"><tspan font-weight="bold">Code Editors:</tspan> VS Code, IntelliJ IDEA</text>
+<text class="info" x="324" y="225" xml:space="preserve"><tspan font-weight="bold">Learning:</tspan> Memory Management, Microprocessors, AI</text>
+<text class="info" x="324" y="245" xml:space="preserve"><tspan font-weight="bold">Commits:</tspan> 15</text>
+<text class="info" x="324" y="265" xml:space="preserve"><tspan font-weight="bold">Stars:</tspan> 0</text>
 <rect x="20" y="357" width="26" height="16" fill="#3a3a3a"/>
 <rect x="51" y="357" width="26" height="16" fill="#ff5f5f"/>
 <rect x="82" y="357" width="26" height="16" fill="#00FF7F"/>
