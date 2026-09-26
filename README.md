@@ -8,7 +8,7 @@
 <img src="./neofetch_art.svg" alt="Neofetch-style profile card" />
 </p>
 
-### **`More about me`**
+### **`More About Me`**
 
 - `I use C++ and C for low-level programming`
 - `I use Python for AI development`
