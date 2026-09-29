@@ -1,6 +1,4 @@
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&height=40&repeat=false&lines=A+low-level+and+AI+developer" /> </p>
-
 <p align="center">
 <img src="./neofetch_art.svg" alt="Neofetch-style profile card" />
 </p>
