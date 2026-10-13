@@ -4,7 +4,7 @@
 </p>
 
 ### **`About Me`**
-- `I'm a self-taught developer, I start writing code at age of 17`
+- `A self-taught developer who started writing code at age of 17`
 - `I use C++ and C for low-level programming`
 - `I use Python for AI development`
 - `I also write code in Java because my University requires it`
