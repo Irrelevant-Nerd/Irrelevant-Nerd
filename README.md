@@ -12,7 +12,7 @@
 - `Quite comfortable working with CMake and Git`
 
 ### **`More About Me (if you care)`**
-- `I admit, I use AI only for code documentation, and fixing bugs but I still write the code myself`
+- `I use AI to boost my productivity, I don't write code that much because it feels too repetitive`
 - `I tend to fall asleep pretty fast so don't expect me to work overnight`
 - `Reading manga, playing valorant, and drawing are my hobbies`
 
